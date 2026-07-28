@@ -1,3 +1,7 @@
-# EV Research Agent
+# 新能源 EV 行研演报生成器
 
-Deployment files are being prepared.
+公开网站：https://bill97007.github.io/
+
+选择新能源 EV 研究方向、公司和统计口径，生成带数据、图表、对比和来源说明的演报，并下载 PPTX 或 PDF。
+
+当前 GitHub Pages 版本为纯静态部署；模型 API 服务端连接测试不在该部署中提供。
